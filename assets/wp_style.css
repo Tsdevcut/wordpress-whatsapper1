@@ -1,0 +1,22 @@
+.whatsap-item {
+    z-index: 100000000;
+    position: fixed;
+    bottom: 50px;
+    left: 20px;
+
+}
+.whatsap-item img.lk-icon {
+    width: 40px;
+}
+.wict a {
+    text-decoration: none !important;
+}
+
+.wict button.lk-whatsapper {
+    border: 1px solid #b09343;
+    padding: 3px 13px 1px 7px;
+    background: #e6e6e6bf;
+}
+.wict button.lk-whatsapper:hover{
+  color:#b09343;
+}

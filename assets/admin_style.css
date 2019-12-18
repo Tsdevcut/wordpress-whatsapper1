@@ -1,0 +1,18 @@
+.admin-content-wrap {
+    padding: 10px 15px;
+}
+
+.admin-content-wrap h2 {
+    font-size: 20px;
+}
+.item-whatsapper {
+    margin-bottom: 11px;
+    border: 1px solid #e5e5e5;
+    padding: 10px 14px 18px;
+    background-color: #fff;
+}
+.item-whatsapper table td {
+
+    padding: 5px;
+
+}
